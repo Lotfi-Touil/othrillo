@@ -10,5 +10,7 @@
         {{-- développement de ce Issue : Bug: Certains articles ne s'affichent pas correctement sur mobile #29 --}}
 
         {{-- développement de ce Issue : Feature : Ajouter des boutons de partage sur les réseaux sociaux pour faciliter le partage de vos articles #16 --}}
+
+        {{-- développement de ce Issue : Feature : Permettre aux visiteurs de laisser des commentaires sur les articles #15 --}}
     </div>
 @endsection
