@@ -8,5 +8,7 @@
         {{-- développement de ce Issue : Feature : Ajout d'une fonctionnalité de catégorisation pour organiser les articles sur le site --}}
  
         {{-- développement de ce Issue : Bug: Certains articles ne s'affichent pas correctement sur mobile #29 --}}
+
+        {{-- développement de ce Issue : Feature : Ajouter des boutons de partage sur les réseaux sociaux pour faciliter le partage de vos articles #16 --}}
     </div>
 @endsection
