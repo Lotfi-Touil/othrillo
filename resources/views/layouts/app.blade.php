@@ -22,6 +22,8 @@
 <body>
     <div id="app">
         @include('partials/navbar')
+        @include('partials/article')
+
 
         <main class="py-4">
             @yield('content')
