@@ -22,5 +22,6 @@
 
             <button type="submit" class="btn btn-primary mt-3">Envoyer</button>
         </form>
+        {{-- développement de ce Issue : Bug : Le formulaire de contact ne renvoie pas de message de confirmation#25 --}}
     </div>
 @endsection
